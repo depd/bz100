@@ -1,0 +1,512 @@
+@media screen and (min-width: 1000px){
+	.com_dis{
+		width:1000px;
+		margin:0 auto;
+		margin-top:35px;
+		overflow:hidden;
+	}
+	.china_map{
+		width:443px;
+		height:333px;
+	}
+	.china_map img{
+		width:100%;
+		height:100%;
+	}
+	.china_city{
+		width:534px;
+	}
+	.china_city ul li:nth-child(odd){
+		width:258px;
+		height:155px;
+		margin-right:10px;
+		margin-bottom:10px;
+		float:left;
+	}
+	.china_city ul li:nth-child(even){
+		width:258px;
+		height:155px;
+		float:left;
+	}
+	.china_city ul li img{
+		width:100%;
+		height:100%;
+	}
+	.bus_con{
+		width:1000px;
+		margin:0 auto;
+		margin-top:72px;
+	}
+	.bus_con ul li{
+		width:240px;
+		height:256px;
+		border:2px solid #b9b9b9;
+		text-align:center;
+		padding-top:42px;
+		margin-right:10px;
+		float:left;
+		position:relative;
+	}
+	.bus_con ul li:last-child{
+		width:240px;
+		height:256px;
+		border:2px solid #b9b9b9;
+		text-align:center;
+		padding-top:42px;
+		margin-right:0;
+		float:left;
+		position:relative;
+	}
+	.bus_con ul li h1{
+		color:#5a5a5a;
+		font-size:22px;
+		margin-bottom:20px;
+		margin-top:20px;
+	}
+	.bus_con ul li p{
+		margin-bottom:10px;
+	}
+	.title_bg1{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our1.png") no-repeat center center;
+	}
+	.title_bg2{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our2.png") no-repeat center center;
+	}
+	.title_bg3{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our3.png") no-repeat center center;
+	}
+	.title_bg4{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our4.png") no-repeat center center;
+	}
+	.ad_con{
+		width:1000px;
+		margin:0 auto;
+		margin-top:30px;
+	}
+	.ad_con ul li{
+		width:320px;
+		height:;
+		margin-right:15px;
+		float:left;
+		border-bottom:3px solid #b5b5b5;
+	}
+	.ad_con ul li:hover{
+		border-bottom:3px solid #16a4ff;
+	}
+	.ad_text{
+		height:50px;
+		line-height:50px;
+		font-size:25px;
+		text-align:center;
+		color:#575757;
+	}
+	.spac_color{
+		color:#16a4ff;
+	}
+	.ad_con ul li:last-child{
+		width:320px;
+		margin-right:0;
+		float:left;
+	}
+	.com_fulture{
+		width:900px;
+		margin:0 auto;
+		margin-top:10px;
+	}
+	.com_fulture ul li{
+		width:180px;
+		float:left;
+		margin-right:60px;
+		text-align:center;
+	}
+	.com_fulture ul li img{
+		display:block;
+		margin:0 auto;
+	}
+	.cm_text{
+		height:50px;
+		line-height:50px;
+		font-size:18px;
+		color:#898989;
+	}
+	.com_fulture ul li:last-child{
+		width:180px;
+		float:left;
+		margin-right:0;
+		text-align:center;
+	}	
+}
+@media screen and (min-width: 680px) and (max-width:1000px){
+	.com_dis{
+		width:680px;
+		margin:0 auto;
+		margin-top:35px;
+		overflow:hidden;
+	}
+	.com_dis .fl{
+		float:none;
+	}
+	.com_dis .fr{
+		float:none;
+	}
+	.china_map{
+		width:443px;
+		height:333px;
+		margin:0 auto;
+	}
+	.china_map img{
+		width:100%;
+		height:100%;
+	}
+	.china_city{
+		width:534px;
+		margin:0 auto;
+		margin-top:40px;
+	}
+	.china_city ul li:nth-child(odd){
+		width:258px;
+		height:155px;
+		margin-right:18px;
+		margin-bottom:18px;
+		float:left;
+	}
+	.china_city ul li:nth-child(even){
+		width:258px;
+		height:155px;
+		float:left;
+	}
+	.china_city ul li img{
+		width:100%;
+		height:100%;
+	}
+	.bus_con{
+		width:680px;
+		margin:0 auto;
+		margin-top:72px;
+	}
+	.bus_con ul{
+		margin:0 auto;
+	}
+	.bus_con ul li:nth-child(odd){
+		width:240px;
+		height:256px;
+		border:2px solid #b9b9b9;
+		text-align:center;
+		padding-top:42px;
+		margin-left:74px;
+		margin-bottom:60px;
+		float:left;
+		position:relative;
+	}
+	.bus_con ul li:nth-child(even){
+		width:240px;
+		height:256px;
+		border:2px solid #b9b9b9;
+		text-align:center;
+		padding-top:42px;
+		margin-right:74px;
+		margin-bottom:60px;
+		float:right;
+		position:relative;
+	}
+	.bus_con ul li:nth-child(3){
+		width:240px;
+		height:256px;
+		border:2px solid #b9b9b9;
+		text-align:center;
+		padding-top:42px;
+		margin-left:74px;
+		margin-bottom:0;
+		float:left;
+		position:relative;
+	}
+	.bus_con ul li:nth-child(4){
+		width:240px;
+		height:256px;
+		border:2px solid #b9b9b9;
+		text-align:center;
+		padding-top:42px;
+		margin-right:74px;
+		margin-bottom:0;
+		float:right;
+		position:relative;
+	}
+	.bus_con ul li h1{
+		color:#5a5a5a;
+		font-size:22px;
+		margin-bottom:20px;
+		margin-top:20px;
+	}
+	.bus_con ul li p{
+		margin-bottom:10px;
+	}
+	.title_bg1{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our1.png") no-repeat center center;
+	}
+	.title_bg2{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our2.png") no-repeat center center;
+	}
+	.title_bg3{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our3.png") no-repeat center center;
+	}
+	.title_bg4{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our4.png") no-repeat center center;
+	}
+	.ad_con{
+		width:680px;
+		margin:0 auto;
+		margin-top:30px;
+	}
+	.ad_con ul li{
+		width:320px;
+		margin:0 auto;
+		margin-top:20px;
+		border-bottom:3px solid #b5b5b5;
+	}
+	.ad_con ul li:hover{
+		border-bottom:3px solid #16a4ff;
+	}
+	.ad_text{
+		height:50px;
+		line-height:50px;
+		font-size:25px;
+		text-align:center;
+		color:#575757;
+	}
+	.spac_color{
+		color:#16a4ff;
+	}
+	.com_fulture{
+		width:680px;
+		margin:0 auto;
+		margin-top:10px;
+	}
+	.com_fulture ul{
+		width:680px;
+		margin:0 auto;
+		overflow:hidden;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;
+
+	}
+	.com_fulture ul li{
+		width:340px;
+		text-align:center;
+	}
+	/*.com_fulture ul li:nth-child(even){
+		width:340px;
+		float:right;
+		text-align:center;
+	}*/
+	/*.com_fulture ul li:nth-child(3){
+		width:340px;
+		float:left;
+		text-align:center;
+	}
+	.com_fulture ul li:nth-child(4){
+		width:340px;
+		text-align:center;
+		display:inline-block;
+	}*/
+	.com_fulture ul li img{
+		display:block;
+		margin:0 auto;
+	}
+	.cm_text{
+		height:50px;
+		line-height:50px;
+		font-size:18px;
+		color:#898989;
+	}
+}
+@media screen and (max-width: 680px){
+	.com_dis{
+		width:320px;
+		margin:0 auto;
+		margin-top:35px;
+		overflow:hidden;
+	}
+	.com_dis .fl{
+		float:none;
+	}
+	.com_dis .fr{
+		float:none;
+	}
+	.china_map{
+		width:320px;
+		height:333px;
+		margin:0 auto;
+	}
+	.china_map img{
+		width:100%;
+		height:100%;
+	}
+	.china_city{
+		width:258px;
+		margin:0 auto;
+		margin-top:40px;
+	}
+	.china_city ul li{
+		width:258px;
+		height:155px;
+		margin-bottom:18px;
+		float:left;
+	}
+	.china_city ul li img{
+		width:100%;
+		height:100%;
+	}
+	.bus_con{
+		width:240px;
+		margin:0 auto;
+		margin-top:72px;
+	}
+	.bus_con ul{
+		margin:0 auto;
+	}
+	.bus_con ul li{
+		width:240px;
+		height:256px;
+		border:2px solid #b9b9b9;
+		text-align:center;
+		padding-top:42px;
+		margin-bottom:60px;
+		float:left;
+		position:relative;
+	}
+	.bus_con ul li h1{
+		color:#5a5a5a;
+		font-size:22px;
+		margin-bottom:20px;
+		margin-top:20px;
+	}
+	.bus_con ul li p{
+		margin-bottom:10px;
+	}
+	.title_bg1{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our1.png") no-repeat center center;
+	}
+	.title_bg2{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our2.png") no-repeat center center;
+	}
+	.title_bg3{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our3.png") no-repeat center center;
+	}
+	.title_bg4{
+		width:92px;
+		height:84px;
+		position:absolute;
+		top:-43px;
+		left:73px;
+		background:url("../image/our4.png") no-repeat center center;
+	}
+	.ad_con{
+		width:320px;
+		margin:0 auto;
+		margin-top:30px;
+	}
+	.ad_con ul li{
+		width:320px;
+		margin:0 auto;
+		margin-top:20px;
+		margin-bottom:40px;
+		border-bottom:3px solid #b5b5b5;
+	}
+	.ad_con ul li:hover{
+		border-bottom:3px solid #16a4ff;
+	}
+	.ad_text{
+		height:50px;
+		line-height:50px;
+		font-size:25px;
+		text-align:center;
+		color:#575757;
+	}
+	.spac_color{
+		color:#16a4ff;
+	}
+	.com_fulture{
+		width:180px;
+		margin:0 auto;
+		margin-top:10px;
+	}
+	.com_fulture ul{
+		width:180px;
+		margin:0 auto;
+		overflow:hidden;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;
+
+	}
+	.com_fulture ul li{
+		width:340px;
+		text-align:center;
+	}
+	.com_fulture ul li img{
+		display:block;
+		margin:0 auto;
+	}
+	.cm_text{
+		height:50px;
+		line-height:50px;
+		font-size:18px;
+		color:#898989;
+	}
+}

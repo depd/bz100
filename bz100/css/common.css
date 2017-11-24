@@ -1,0 +1,42 @@
+p,div,h1,h2,h3,h4,ul,li,ol,dl,dt,dd,input,button{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+body,html{
+	font-size:14px;
+	color:#5a5a5a;
+	font-family:"微软雅黑";
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.clear_float{
+	clear:both;
+}
+.content{
+	width:100%;
+	height:auto;
+	overflow:hidden;
+	margin-bottom:120px;
+}
+.comom_com{
+	width:100%;
+	height:auto;
+}
+.head_china{
+	letter-spacing:4px;
+	font-size:38px;
+	text-align:center;
+	margin:0 auto;
+	margin-top:74px;
+}
+.head_english{
+	text-align:center;
+	color:#0c9ceb;
+	margin:0 auto;
+	font-size:16px;
+}
