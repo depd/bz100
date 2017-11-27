@@ -25,3 +25,4 @@ $(".his_img").mouseleave(function(){
 	inters = setInterval(inter,20);
 });
 
+
